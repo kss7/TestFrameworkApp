@@ -9,8 +9,8 @@ This API allows us to work with users DB.
 - [Login](#Login)
 - [Allusercount](#Allusercount)
 - [Users](#Users)
-- [User](#Get Specific user)
-- [Delete](#Delete an user)
+- [User](#Get-Specific-user)
+- [Delete](#Delete-an-user)
 
 
 ## Status
@@ -200,7 +200,7 @@ Example response:
 }
 ```
 
-## Get Specific user
+## Get-Specific-user
 
 Get user with ID.
 
@@ -259,9 +259,9 @@ Sample Request:
 
 **Parameters**
 
-| Name     | Type   | In   | Required | Description                |
-|----------|--------|------| -------- |----------------------------|
-| `Id`     | int    | body | Yes      | Specifies the id to delte. |
+| Name     | Type   | In   | Required | Description                 |
+|----------|--------|------| -------- |-----------------------------|
+| `Id`     | int    | body | Yes      | Specifies the id to delete. |
 
 **Status codes**
 
