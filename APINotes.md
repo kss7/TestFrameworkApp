@@ -238,7 +238,7 @@ Example response:
 ```
 
 
-### Delete an user
+## Delete an user
 
 Deletes a user from the system.
 
